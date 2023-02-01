@@ -18,7 +18,6 @@ let getTitle = (note) => {
   }
   return title
 }
-//          /Users/ColeHoward/Desktop/Django-React/frontend/build/static 
 
 
 let getContent =  (note) => {
